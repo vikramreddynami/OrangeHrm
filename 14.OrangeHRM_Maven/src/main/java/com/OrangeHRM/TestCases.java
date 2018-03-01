@@ -9,6 +9,7 @@ public class TestCases {
 	public static void startLog() throws Throwable {
 		LogFile.openLogFile("D:\\Vikram Selenium\\7.LogFile\\AllTestResult.txt");
 		System.out.println("HI");
+		System.out.println("Bye");
 	}
 	
 	@AfterClass
